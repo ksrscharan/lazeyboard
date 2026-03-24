@@ -4,9 +4,9 @@ export const theme = createTheme({
   primaryColor: 'indigo',
   primaryShade: 6,
   defaultRadius: 'md',
-  fontFamily: 'Outfit, sans-serif',
+  fontFamily: 'Hammersmith One, sans-serif',
   headings: {
-    fontFamily: 'Outfit, sans-serif',
+    fontFamily: 'Hammersmith One, sans-serif',
     fontWeight: '700',
   },
   colors: {

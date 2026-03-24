@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import {
   Text,
   useMantineTheme,
@@ -6,7 +5,6 @@ import {
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
   const theme = useMantineTheme()
 
   return (
