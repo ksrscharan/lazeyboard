@@ -17,6 +17,8 @@ progress
 .env.example
 .env.production
 .env.development
+QWEN.md
+flow.md
 
 # Editor directories and files
 .vscode/*
