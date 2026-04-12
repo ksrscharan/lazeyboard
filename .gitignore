@@ -11,6 +11,14 @@ node_modules
 dist
 dist-ssr
 *.local
+progress
+.env
+.env.local
+.env.example
+.env.production
+.env.development
+QWEN.md
+flow.md
 
 # Editor directories and files
 .vscode/*
